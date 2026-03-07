@@ -19,7 +19,17 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplína
 
 -exemplos de mercado: Amazon Web Services,  Microsoft Azure ,Google Cloud Platform, Oracle Cloud Infrastructure, Alibaba Cloud.
 
-<b>PaaS<b>:
+<b>PaaS<b>: é um modelo de computação em nuvem que fornece um ambiente completo de desenvolvimento e implantação, permitindo que desenvolvedores criem, testem, gerenciem e implantem aplicativos sem a necessidade de gerenciar a infraestrutura subjacente
+
+-exemplos de mercado: Google App Engine, Microsoft Azure App Service e entre outros.
+
+<b>SaaS<b>: é um modelo de distribuição de software baseado na nuvem, onde o provedor hospeda a aplicação e os dados, permitindo acesso via navegador.
+
+-exemplo de mercado: Dropbox (armazenamento), Netflix (streaming) e Canva (design).
+
+<b>SECaaS<b>:  refere-se à entrega de soluções de segurança da informação como um serviço através da nuvem, sem a necessidade de hardware ou software local.
+
+-exemplo de mercado: iBrasill Focada em soluções de segurança total e gerenciada, Service IT: Especializada em outsourcing de segurança, protegendo ativos de rede, e-mail e nuvem, e entre outros
 
 
  
