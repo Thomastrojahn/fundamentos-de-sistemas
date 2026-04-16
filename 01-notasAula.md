@@ -1,6 +1,12 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+
+## Aula 6
+- Internet das coisas: todo lugar, todo momento e conectada
+ - Sistemas pervasivos versus sistemas ubíquos
+  - Destauqe: automação residencial, comercial e industrial 
+
 ## Aula 5
   - Tarefa avaliatia
   - Assunto: Tipos de Sistemas de Informação
