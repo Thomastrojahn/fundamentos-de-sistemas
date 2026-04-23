@@ -13,7 +13,7 @@ Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
     - Coluna1 (a fazer ou TO DO)
     - Coluna2 (fazendo DOING)
     - Coluna3 (feito ou DONE)
-  - ATIVIDADE
+ - ATIVIDADE
    - Pesquisar e colocar no glossário pessoal.
     - Os conceitos da técnica versus metodologia
     - pesquisar como integrar (se existe) trello no GitHub
