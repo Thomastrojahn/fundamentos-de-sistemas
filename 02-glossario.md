@@ -32,5 +32,10 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplína
 -exemplo de mercado: iBrasill Focada em soluções de segurança total e gerenciada, Service IT: Especializada em outsourcing de segurança, protegendo ativos de rede, e-mail e nuvem, e entre outros
 
 
- 
+ # O que é uma CRM?
 
+ O CRM(customer Relationship Management), Ele é m sistema que foca nos dados como históricos de interação,e-mails e vendas de clientes em um único lugar, ele também organiza o processo comercial, automatia tarefas e também ajuda com a equipe de vendas a vender mais rápido
+
+# Como a CRM funciona?
+
+Ela funciona como um banco de dados que acompanha oque o cliente fez, ela consegue capturar esses dados do cliente como o nome,e-mail e telefone dele. Ele consegue fazer que cada cliente ganhe um perfil único, e dentro desse perfil ele armazena o e-mail, as propostas comerciais e as reclamações ou dúvidas do cliente,
